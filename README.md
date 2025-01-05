@@ -18,7 +18,7 @@ This project involves a comprehensive Power BI Dashboard designed to analyze and
 - Merge all reports into one dashboard and apply slicer to make dynamic.
 ## Dashboard
 
-![Screenshot (495)](![My-Finance-Analysis-Dashboard](https://github.com/user-attachments/assets/1cc9a73c-7974-4785-8b53-57df5090027d)
+![Screenshot (495)](https://github.com/user-attachments/assets/1cc9a73c-7974-4785-8b53-57df5090027d)
 )
 
 
