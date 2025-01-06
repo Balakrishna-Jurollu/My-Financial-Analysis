@@ -18,7 +18,18 @@ This project involves a comprehensive Power BI Dashboard designed to analyze and
 - Merge all reports into one dashboard and apply slicer to make dynamic.
 ## Dashboard
 
-![Screenshot (495)](https://github.com/user-attachments/assets/1cc9a73c-7974-4785-8b53-57df5090027d
-)
+![Screenshot (495)](https://github.com/user-attachments/assets/1cc9a73c-7974-4785-8b53-57df5090027d)
+
+## Project Insight
+- My net worth is ₹3.07M, calculated as the difference between total income and total expenses over the analyzed period.
+- House rent accounts for the largest share (37.19%), followed by groceries (25.79%) and EMIs (19.69%).
+- Savings consistently hover around 71%, which aligns with targets. However, there may be slight deviations during certain months due to seasonal variations or unplanned expenses.
+- September is the bad month and remaining all are financially good months.
+- I spend most of the Income on House Rent and Groceries.
+- I save most of my money as Liquid cash and Mutual Funds.
+
+## Final Conclusion:
+These insights suggest that while your savings are on track, there's an opportunity to optimize spending on non-essential items and diversify savings into higher-yielding instruments.
+
 
 
