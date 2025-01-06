@@ -6,7 +6,7 @@ This project involves a comprehensive Power BI Dashboard designed to analyze and
 ## Questions (KPIs)
 - What is my net worth?
 - Is my spending pattern right?
-- Am 1 reaching my savings target?
+- Am I reaching my savings target?
 - Which months are financially bad/good?
 - Where/how do I spend?
 - Where/how do I save?
